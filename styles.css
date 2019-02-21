@@ -1,0 +1,49 @@
+h1{
+    font-size:60px;
+    color:gold;
+    font-family: 'Coiny', cursive; 
+    background-image:url("http://womheg.com/wp-content/uploads/2016/06/ramadan-1429.jpg");
+    background-color: #cccccc;
+}
+body {
+    background-image:url("http://sjbz.fd.zol-img.com.cn/t_s320x510c/g5/M00/00/01/ChMkJlfJUb6IR4NxAAA1to-DYuAAAU9fgPcWCcAADXO083.jpg");
+    background-color: #cccccc;
+    text-align:center;
+}
+.Movie{
+    font-size:40px;
+    color:gold;
+    font-family: 'Felipa', cursive;
+    background-image:url("http://womheg.com/wp-content/uploads/2016/06/ramadan-1429.jpg");
+    background-color: #cccccc;
+}
+.Actor{
+    font-size:40px;
+    color:blue;
+    font-family: 'Indie Flower', cursive;
+    background-image:url("http://womheg.com/wp-content/uploads/2016/06/ramadan-1429.jpg");
+    background-color: #cccccc;
+}
+.Game{
+    font-size:40px;
+    color:red;
+    font-family: 'Pacifico', cursive;
+    background-image:url("http://womheg.com/wp-content/uploads/2016/06/ramadan-1429.jpg");
+    background-color: #cccccc;
+ 
+}
+.Music{
+    font-size:40px;
+    color:yellow;
+    font-family: 'Gloria Hallelujah',cursive;
+    background-image:url("http://womheg.com/wp-content/uploads/2016/06/ramadan-1429.jpg");
+    background-color: #cccccc;
+   
+}
+.p{
+    width:600px;
+}
+p{
+    font-size:30px;
+    color:purple;
+}
